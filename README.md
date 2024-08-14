@@ -41,6 +41,7 @@ The goal of this project is to create a web-based Weather Forecast application t
 ## Technologies ##
 
 **Frontend:** HTML, CSS, JavaScript
+
 **APIs:** Weather API (e.g., OpenWeatherMap, WeatherAPI)
 
 ## Learning Outcomes ##
