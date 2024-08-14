@@ -16,11 +16,11 @@
 
 ## Project Overview: Weather Forecast App ##
 
-**Objective**
+## Objective ##
 
 The goal of this project is to create a web-based Weather Forecast application that provides users with real-time weather information. The application will allow users to search for weather forecasts by location, view current conditions, and receive predictions for upcoming days. The app will also feature responsive design and user-friendly interfaces.
 
-**Key Features**
+## Key Features ##
 
 **Location-Based Weather Search:** Users can enter a city or use geolocation to get weather forecasts for their current location.
 
