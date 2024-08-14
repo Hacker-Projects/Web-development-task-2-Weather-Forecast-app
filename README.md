@@ -1,4 +1,4 @@
-## CODTECH INTERNSHIP TASK 1 ##
+## CODTECH INTERNSHIP TASK 2 ##
 
 ## Weather-Forecast-app ##
 
